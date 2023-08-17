@@ -15,3 +15,12 @@
     "glob": "^7.1.6"
   }
 }*/
+
+/*{
+  "scripts": {
+    "readme": "node repotools/generate_readme.js"
+  },
+  "devDependencies": {
+    "glob": "^7.1.6"
+  }
+}*/
